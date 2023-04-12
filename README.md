@@ -2,5 +2,4 @@
 Creating of Marimekko chart with Matplotlib and NumPy
 
 
-![Marimekko_Chart](https://user-images.githubusercontent.com/114348578/192158855-8140cb97-d167-4e68-b021-7130c677c803.png)
-
+![marimekko_chart](https://user-images.githubusercontent.com/114348578/231524320-3850a631-d4b5-41de-aee7-2acd4a576eea.png)
